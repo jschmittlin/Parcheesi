@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Parcheesi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parcheesi_jar</output-path>
+    <root id="archive" name="Parcheesi.jar">
+      <element id="module-output" name="Parcheesi" />
+    </root>
+  </artifact>
+</component>
