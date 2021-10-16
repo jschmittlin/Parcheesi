@@ -1,10 +1,5 @@
 # Parcheesi
 
-A brief description of what this project does and who it's for
-
-
-## Description
-
 Parcheesi is a game project for computer license degree at Université de Franche Comté.
 This game reproduces the moose in a version at 2 players and differents obstacles.
 
