@@ -1,6 +1,6 @@
 # Parcheesi
 
-Parcheesi is a game project for computer license degree at Université de Franche Comté.
+Parcheesi is a Java video game project for computer license degree at Université de Franche Comté.
 This game reproduces the moose in a version at 2 players and differents obstacles.
 
   
